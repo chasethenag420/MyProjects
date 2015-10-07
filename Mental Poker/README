@@ -1,28 +1,4 @@
 --------------------------------------------------------------------------
-----------------------------SUBMISSION------------------------------------
---------------------------------------------------------------------------
-
-This is a submission for Project 2 (Mental Poker)  of CSE539:Applied Cryptrography taught under Prof. Alan Skousen.
-
-Author: Nagarjuna Myla
-ASU ID: 1207540161
-
---------------------------------------------------------------------------
-----------------------------CONTENTS--------------------------------------
---------------------------------------------------------------------------
-
-This submission contains the following directories and files:
--Nagarjuna_Myla.zip		//packaged archive
---MentalPokerA			//Qt Creator Project
---MentalPokerB			//Qt Creator Project
---CSE539_P2_Mentalpoker.pdf	//Project Report
-
---------------------------------------------------------------------------
-----------------------------DIRECTIONS------------------------------------
---------------------------------------------------------------------------
-
-IMPORTANT NOTE TO GRADER: THE PROJECT'S <PROJECT_NAME>.PRO.USER FILE HAS BEEN REMOVED INTENTIONALLY SO THAT THE BUILD ENVIORONMENT OF THE TARGET MACHINE IS USED
-
 To open and execute the project in Qt Creator, perform the following steps:
 1) Open Qt Creator
 2) Click on File -> Open File or Project
